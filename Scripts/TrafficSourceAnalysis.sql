@@ -1,4 +1,4 @@
-
+--We are analyzing all the traffic sources that we used, and see how each of them performed and identify the best platform and the weak one--
 /* Performance of all our Traffic Sources*/
 SELECT
     Traffic_source,
