@@ -1,4 +1,4 @@
-/*See our campaign's performance across different devices*/
+--See our campaign's performance across different devices--
 
 SELECT
 Device,
