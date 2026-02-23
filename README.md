@@ -85,4 +85,4 @@ The primary constraint is unit economics.
 
 Future growth depends on improving financial efficiency rather than modifying conversion performance.
 
-![Funnel Dashboard](PASTE_YOUR_IMAGE_LINK_HERE)
+![Funnel Dashboard](https://github.com/ann-amboka/Funnel-Analysis-Using-SQL-Power-BI/blob/main/FUNNEL%20ANALYSIS.png)
