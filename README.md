@@ -84,3 +84,5 @@ The funnel is structurally sound.
 The primary constraint is unit economics.
 
 Future growth depends on improving financial efficiency rather than modifying conversion performance.
+
+![Funnel Dashboard](PASTE_YOUR_IMAGE_LINK_HERE)
