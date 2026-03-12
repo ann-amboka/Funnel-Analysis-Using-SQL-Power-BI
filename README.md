@@ -1,8 +1,12 @@
 🚀 Project Overview
 
-This project evaluates full-funnel marketing performance using SQL for data extraction and Power BI for visualization.
+Project Background
 
-The objective is to analyze campaign efficiency, identify profitability gaps, and provide data-driven strategic recommendations based on performance benchmarks.
+Businesses invest significant resources in acquiring customers, yet strong conversion metrics do not always translate into profitability. Understanding where users drop off in the funnel and how acquisition costs relate to revenue is essential for sustainable growth.
+
+This project was developed to analyze a full marketing funnel and evaluate whether strong engagement and conversion rates align with profitable customer acquisition. Using SQL to extract and structure the dataset and Power BI to visualize performance, the analysis focuses on identifying operational efficiency, diagnosing economic constraints, and translating data into actionable business insights.
+
+The goal is to demonstrate how data analysis can move beyond reporting metrics to supporting strategic decision making.
 
 🔍 What Happened?
 
